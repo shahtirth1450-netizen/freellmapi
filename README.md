@@ -13,7 +13,7 @@ Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible cha
 [![Docker image](https://img.shields.io/badge/ghcr.io-freellmapi-2496ED?logo=docker&logoColor=white)](https://github.com/shahtirth1450-netizen/freellmapi/pkgs/container/freellmapi)
 [![GitHub Pages](https://img.shields.io/badge/Project%20Page-black625-10b981?style=flat&logo=github)](https://shahtirth1450-netizen.github.io/freellmapi/)
 
-> **Made & Maintained by [black625](https://github.com/shahtirth1450-netizen/freellmapi)** · Project page: **[shahtirth1450-netizen.github.io/freellmapi](https://shahtirth1450-netizen.github.io/freellmapi/)** · MIT-licensed fork (original copyright preserved in [LICENSE](./LICENSE)).
+> **Made & Maintained by [black625](https://github.com/shahtirth1450-netizen/freellmapi)** · Project page & **[Claude Code Setup Guide](https://shahtirth1450-netizen.github.io/freellmapi/#claude-setup)** · **[shahtirth1450-netizen.github.io/freellmapi](https://shahtirth1450-netizen.github.io/freellmapi/)** · MIT-licensed fork (original copyright preserved in [LICENSE](./LICENSE)).
 
 **[freellmapi.co](https://freellmapi.co/?utm_source=github&utm_medium=readme&utm_campaign=repository&utm_content=readme_top)** · browse the full catalog: 736 model families, 1,313 free endpoints
 
