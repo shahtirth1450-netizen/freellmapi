@@ -4,6 +4,7 @@
   "description": "FreeLLMAPI menu-bar app — local OpenAI-compatible LLM router",
   "author": {
     "name": "black625",
+    "email": "black625@users.noreply.github.com",
     "url": "https://github.com/shahtirth1450-netizen/freellmapi"
   },
   "homepage": "https://shahtirth1450-netizen.github.io/freellmapi/",
